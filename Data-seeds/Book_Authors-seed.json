@@ -1,0 +1,40 @@
+[
+  { "bookId": 1,  "authorId": 1 },
+  { "bookId": 2,  "authorId": 1 },
+
+  { "bookId": 3,  "authorId": 2 },
+  { "bookId": 4,  "authorId": 2 },
+
+  { "bookId": 5,  "authorId": 3 },
+  { "bookId": 6,  "authorId": 3 },
+
+  { "bookId": 7,  "authorId": 4 },
+  { "bookId": 8,  "authorId": 4 },
+
+  { "bookId": 9,  "authorId": 5 },
+  { "bookId": 10, "authorId": 5 },
+
+  { "bookId": 11, "authorId": 6 },
+  { "bookId": 12, "authorId": 6 },
+
+  { "bookId": 13, "authorId": 9 },
+  { "bookId": 14, "authorId": 8 },
+
+  { "bookId": 15, "authorId": 7 },
+
+  { "bookId": 16, "authorId": 10 },
+  { "bookId": 17, "authorId": 10 },
+
+  { "bookId": 18, "authorId": 16 },
+
+  { "bookId": 19, "authorId": 17 },
+
+  { "bookId": 20, "authorId": 18 },
+  { "bookId": 20, "authorId": 19 },
+  { "bookId": 20, "authorId": 20 },
+  { "bookId": 20, "authorId": 21 },
+
+  { "bookId": 21, "authorId": 23 },
+
+  { "bookId": 22, "authorId": 22 }
+]

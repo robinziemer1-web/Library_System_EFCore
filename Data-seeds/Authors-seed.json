@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "firstName": "George",
+    "lastName": "Orwell",
+    "birthDay": "1903-06-25"
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Austen",
+    "birthDay": "1775-12-16"
+  },
+  {
+    "id": 3,
+    "firstName": "Fyodor",
+    "lastName": "Dostoevsky",
+    "birthDay": "1821-11-11"
+  },
+  {
+    "id": 4,
+    "firstName": "J.K.",
+    "lastName": "Rowling",
+    "birthDay": "1965-07-31"
+  },
+  {
+    "id": 5,
+    "firstName": "J.R.R.",
+    "lastName": "Tolkien",
+    "birthDay": "1892-01-03"
+  },
+  {
+    "id": 6,
+    "firstName": "Stephen",
+    "lastName": "King",
+    "birthDay": "1947-09-21"
+  },
+  {
+    "id": 7,
+    "firstName": "Agatha",
+    "lastName": "Christie",
+    "birthDay": "1890-09-15"
+  },
+  {
+    "id": 8,
+    "firstName": "Mark",
+    "lastName": "Twain",
+    "birthDay": "1835-11-30"
+  },
+  {
+    "id": 9,
+    "firstName": "Ernest",
+    "lastName": "Hemingway",
+    "birthDay": "1899-07-21"
+  },
+  {
+    "id": 10,
+    "firstName": "Neil",
+    "lastName": "Gaiman",
+    "birthDay": "1960-11-10"
+  },
+
+  {
+    "id": 11,
+    "firstName": "Douglas",
+    "lastName": "Adams",
+    "birthDay": "1952-03-11"
+  },
+  {
+    "id": 12,
+    "firstName": "Isaac",
+    "lastName": "Asimov",
+    "birthDay": "1920-01-02"
+  },
+  {
+    "id": 13,
+    "firstName": "Arthur",
+    "lastName": "Clarke",
+    "birthDay": "1917-12-16"
+  },
+  {
+    "id": 14,
+    "firstName": "Frank",
+    "lastName": "Herbert",
+    "birthDay": "1920-10-08"
+  },
+  {
+    "id": 15,
+    "firstName": "Philip",
+    "lastName": "Dick",
+    "birthDay": "1928-12-16"
+  },
+
+  {
+    "id": 16,
+    "firstName": "Robert",
+    "lastName": "Martin",
+    "birthDay": "1952-12-05"
+  },
+  {
+    "id": 17,
+    "firstName": "Martin",
+    "lastName": "Fowler",
+    "birthDay": "1963-12-18"
+  },
+  {
+    "id": 18,
+    "firstName": "Erich",
+    "lastName": "Gamma",
+    "birthDay": "1961-03-13"
+  },
+  {
+    "id": 19,
+    "firstName": "Richard",
+    "lastName": "Helm",
+    "birthDay": "1960-01-01"
+  },
+  {
+    "id": 20,
+    "firstName": "Ralph",
+    "lastName": "Johnson",
+    "birthDay": "1955-01-01"
+  },
+  {
+    "id": 21,
+    "firstName": "John",
+    "lastName": "Vlissides",
+    "birthDay": "1961-08-02"
+  },
+
+  {
+    "id": 22,
+    "firstName": "Donald",
+    "lastName": "Knuth",
+    "birthDay": "1938-01-10"
+  },
+  {
+    "id": 23,
+    "firstName": "Thomas",
+    "lastName": "Cormen",
+    "birthDay": "1956-01-01"
+  },
+  {
+    "id": 24,
+    "firstName": "Brian",
+    "lastName": "Kernighan",
+    "birthDay": "1942-01-01"
+  },
+  {
+    "id": 25,
+    "firstName": "Dennis",
+    "lastName": "Ritchie",
+    "birthDay": "1941-09-09"
+  },
+  {
+    "id": 26,
+    "firstName": "Bjarne",
+    "lastName": "Stroustrup",
+    "birthDay": "1950-12-30"
+  }
+]
